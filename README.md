@@ -22,7 +22,8 @@
 1. **Copy the entire code** into a new Google Colab notebook
 2. **Click "Runtime" → "Run all"**
 3. **Wait 5-10 minutes** - it runs completely automatically
-4. **Download the generated images** (right-click in file browser)
+4. **Download the generated images**
+5. **Re-run the notebook with real data**
 
 ## 💡 Key attributes of this project
 - "I built an AI emulator for atmospheric blocking events - the high-pressure patterns that cause heatwaves and droughts"
