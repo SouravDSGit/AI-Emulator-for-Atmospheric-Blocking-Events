@@ -1,6 +1,6 @@
 # AI Emulator for Atmospheric Blocking Events
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
