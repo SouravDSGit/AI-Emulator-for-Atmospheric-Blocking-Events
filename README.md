@@ -57,7 +57,7 @@ If you prefer to run locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/SouravDSGit/AI-Emulator-for-Atmospheric-Blocking-Events.git
+git clone git@github.com:SouravDSGit/AI-Emulator-for-Atmospheric-Blocking-Events.git
 cd AI-Emulator-for-Atmospheric-Blocking-Events
 
 # Install dependencies
