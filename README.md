@@ -5,7 +5,7 @@
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **An educational, fully-runnable Google Colab notebook** demonstrating how to build a deep learning emulator for predicting atmospheric blocking events—major drivers of extreme weather like heatwaves, droughts, and cold snaps.
+> **An educational, fully-runnable Google Colab notebook** demonstrating how to build a deep learning emulator for predicting atmospheric blocking events—major drivers of extreme weather like heatwaves, droughts, and cold snaps (applicable to E3SM).
 
 ## 📚 What You'll Learn
 
