@@ -34,4 +34,5 @@
 - What blocking is and why it matters
 - How the neural network works
 - What each metric means
-Email: soumukhcivil@gmail.com
+
+**Email**: soumukhcivil@gmail.com
