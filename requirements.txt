@@ -1,0 +1,34 @@
+# AI Emulator for Atmospheric Blocking Events
+# Python Package Requirements
+
+# Core Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Numerical Computing
+numpy>=1.19.0
+pandas>=1.2.0
+scipy>=1.6.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Data Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Progress Bars (optional, for training visualization)
+tqdm>=4.50.0
+
+# Jupyter Notebook Support (if running locally)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Optional: For working with NetCDF files (if using real ERA5 data)
+# netCDF4>=1.5.0
+# xarray>=0.18.0
+# cdsapi>=0.5.0
+
+# Note: Google Colab already includes most of these packages pre-installed.
+# This requirements.txt is primarily for local installation.
