@@ -339,4 +339,4 @@ If you use this notebook for research or teaching, please cite:
 ## 🔗 Related Projects
 
 - [Multi Model Ensemble Analysis of Extreme Event Attribution](https://github.com/SouravDSGit/Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution/tree/main)
-- [Graph Neural Networks for Teleconnections](../gnn-teleconnections/)
+- [Graph Neural Networks for Teleconnections](https://github.com/SouravDSGit/GNN-for-Atmospheric-Teleconnection-Patterns/blob/main)
